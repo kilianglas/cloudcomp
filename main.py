@@ -102,7 +102,7 @@ def outliers_iqr(ys):
 # TODO: Write your group number in place of #
 @app.route("/")
 def index():
-    return "welcome to exercise 6 of group #"
+    return "welcome to exercise 6 of group 126"
 
 
 # TODO:  Return the name of the project which took most of the time when you create a server in Openstack.
